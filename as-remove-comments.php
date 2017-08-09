@@ -3,7 +3,7 @@
  * Plugin Name: As Remove Comments
  * Version: 1.0
  * Plugin URI: https://github.com/anurag-singh/as-remove-comments
- * Description: This is your starter template for your next WordPress plugin.
+ * Description: Remove comments from all over the site or from any specific post type.
  * Author: Anurag Singh
  * Author URI: http://anuragsingh.me/
  * Requires at least: 4.0
